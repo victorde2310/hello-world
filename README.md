@@ -1,2 +1,2 @@
 # hello-world
-PRACTICA 1#-+-+-+-+-+-+
+PRACTICA 1#
